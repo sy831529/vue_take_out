@@ -2,15 +2,15 @@
 # take-out项目前端Vue项目源码部分：
 
 - 前端项目技术栈： Vue + element ui + axios 
-后端项目源码地址：https://github.com/sy831529/spring_cloud_take_out.git
+- 后端项目源码地址：https://github.com/sy831529/spring_cloud_take_out.git
 
 ## 各页面功能设计：
-login.vue :登录页面
+- login.vue :登录页面
 
 ## 用户页面：
-order.vue :用户账户首页页面
-register.vue :用户账户注册页面
-updateUser.vue :用户账户修改资料页面
+- order.vue :用户账户首页页面
+- register.vue :用户账户注册页面
+- updateUser.vue :用户账户修改资料页面
 updateByUserId.vue :用户账户修改密码页面
 orderfood1.vue - orderfood5.vue :用户订购菜品页面
 Orderbyuser.vue :用户查询所有订单页面
