@@ -1,7 +1,7 @@
 # vue-take-out
 # take-out项目前端Vue项目源码部分：
 
-前端项目技术栈： Vue + element ui + axios 
+- 前端项目技术栈： Vue + element ui + axios 
 后端项目源码地址：https://github.com/sy831529/spring_cloud_take_out.git
 
 ## 各页面功能设计：
